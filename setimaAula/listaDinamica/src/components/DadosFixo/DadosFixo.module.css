@@ -1,0 +1,15 @@
+.insercaoDadosUsuario input {
+  height: 50px;
+  width: 200px;
+  border-color: blue;
+  border-radius: 10px;
+  text-align: center;
+}
+.insercaoDadosUsuario {
+  display: flex;
+}
+button {
+  margin: 10px;
+  color: blue;
+  background-color: red;
+}
