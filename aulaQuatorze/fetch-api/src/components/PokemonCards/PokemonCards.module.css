@@ -1,0 +1,10 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.card{
+    background: linear-gradient(blue,black);
+    border-radius: 10px;
+}

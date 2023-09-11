@@ -1,0 +1,22 @@
+main{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  flex-direction: column;
+  width: 100%;  
+  background: black;
+}
+.cards{
+  width: calc(100% - 50%);
+  height: calc(100% - 50%);
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  gap: 2rem;
+}
+h1{
+  color: rgb(70, 56, 197);
+  display: flex;
+  justify-content: center;
+}
